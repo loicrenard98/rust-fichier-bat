@@ -1,0 +1,1 @@
+Start /high RustDedicated.exe -batchmode +server.port 28015 +server.hostname "test" +rcon.port Choississez un port +rcon.password "pasdemdp" +rcon.ip 0.0.0.0 +server.maxplayers 20 +server.identity "Adiancecraft" -server.worldsize 4000 -cfg "save/server.cfg" -oxidedir "save/oxide"
